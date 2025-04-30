@@ -61,7 +61,7 @@ SeleniumTestSuite/
 1. Clone the repository:
 
 ````
-git clone https://github.com/your-username/SeleniumTestSuite.git
+git clone https://github.com/Artenes/SeleniumTestSuite.git
 ````
 
 2. Navigate to the project directory:
